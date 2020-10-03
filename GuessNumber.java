@@ -1,5 +1,3 @@
-//姓名 : 鍾明智
-//學號 : 107213067
 import java.util.Scanner;
 public class GuessNumber {
     private int[] answear;
